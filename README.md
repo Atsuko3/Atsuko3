@@ -1,4 +1,4 @@
-## Hi, I'm Atsuko👋
+## 👋 Hi, I’m ATSUKO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 ## 👋 About Me
 
@@ -7,6 +7,7 @@ Webアプリケーション開発を中心にプログラミングを学び、�
 
 実際に使用するユーザーの立場を考え、  
 気持ちや行動が前向きになる体験を提供できるアプリを作りたいと考えています。
+
 開発では、機能を増やすことよりも、  
 「このアプリで何を解決したいのか」という軸を意識しながら取り組んできました。
 
@@ -40,16 +41,16 @@ Webアプリケーション開発を中心にプログラミングを学び、�
 ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![LINE Messaging API](https://img.shields.io/badge/LINE_Messaging_API-00C300?logo=line&logoColor=white)
 
-### Auth / Database
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+### Database / Auth
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
-### Infra / Design / Tools
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?logo=awslambda&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+### Others
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![draw.io](https://img.shields.io/badge/draw.io-F08705?logo=diagramsdotnet&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?logo=awslambda&logoColor=white)
 
 ---
 
