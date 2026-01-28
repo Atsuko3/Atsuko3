@@ -1,5 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Hi, I’m ATSUKO
-
+# Hi, I’m Atsuko<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 ## 👋 About Me
 
 専門実践教育訓練の認定を受けた教育機関にて、
